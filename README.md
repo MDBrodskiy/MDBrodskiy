@@ -4,9 +4,8 @@
 <p><em><u>Physics & Electrical Engineering Student, Northeastern University</u></em></p>
 <hr style="height:2px" color="grey">
 In my profile, one will find many notes from my classes, scripts, and config files for my preferred software. Given my advocacy for Free Software, anything I produce has been, is, or will be published under a freedom-respecting license or permissive license. <br/>
-<br/>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdbrodskiy&langs_count=5&theme=tokyonight">
-<br/><br/><br/><br/><br/><br/> 📫 How to reach me: <br/>
+<br/><br/><br/><br/><br/> 📫 How to reach me: <br/>
 <a href="http://Michael.Brodskiy.com" style="color:blue"><i>www.Michael.Brodskiy.com</i></a><br/>
 <a href="mailto:MBrodskiy@Member.FSF.org" style="color:blue"><i>E-Mail</i></a>
 •
