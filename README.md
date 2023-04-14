@@ -1,8 +1,11 @@
-Hey, I'm Michael Brodskiy, a Physics & Electrical Engineering student at Northeastern University. In my profile, one will find many notes from my classes, scripts, and configuration files for my preferred software. Given my advocacy for Free Software, anything I produce has been, is, or will be published under a freedom-respecting license or permissive license.  <img align='right' src="https://github-readme-stats.vercel.app/api?username=MDBrodskiy&show_icons=true&theme=dark" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MDBrodskiy&show_icons=true&theme=dark" width="380">
+<h1>Michael Brodskiy</h1>
+<p><em><u>Physics & Electrical Engineering Student, Northeastern University</u></em></p>
+In my profile, one will find many notes from my classes, scripts, and configuration files for my preferred software. Given my advocacy for Free Software, anything I produce has been, is, or will be published under a freedom-respecting license or permissive license.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MDBrodskiy&langs_count=5&theme=tokyonight)]()
 
-Contact Me: <br>
+📫 How to reach me:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css" integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
 <br/><br/>
 <a href="http://Michael.Brodskiy.com" style="color:blue"><i class="fa fa-globe-w" style="font-size:20px;color:#1E88E5"></i><i>www.Michael.Brodskiy.com</i></a><br/>
