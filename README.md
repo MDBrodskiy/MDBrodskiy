@@ -9,6 +9,7 @@ Hey, I'm Michael Brodskiy, a Physics & Electrical Engineering student at Northea
 <a href="tel:+19253957120" style="color:#C90016"><u><i class="fa fa-phone-square" style="font-size:20px"></i></i></u><i>Mobile</i> (<i>SMS ok</i>)</a><br/>
 <a href="http://Michael.Brodskiy.com" style="color:blue"><i class="fa fa-globe-w" style="font-size:20px;color:#1E88E5"></i><i>www.Michael.Brodskiy.com</i></a><br/>
 <a href="mailto:MBrodskiy@Member.FSF.org" style="color:darkblue"><i class="fa fa-github-square" aria-hidden="true" style="font-size:20px;color:#211F1F"></i><i>E-Mail</i></a>
+•
 <a href="https://www.linkedin.com/in/MBrodskiy/?locale=en_US" style="color:darkblue"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size:20px;color:#0072B1"></i><i>LinkedIn</i></a>
 <br/>
 <a style="color:black;font-variant:small-caps;font-size:12px;font-style:bold;">"There are only two industries which refer to their customers as users, drugs and computers"</a>
