@@ -1,9 +1,9 @@
 <hr style="height:2px" color="grey">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=MDBrodskiy&show_icons=true&theme=dark" width="400">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MDBrodskiy&show_icons=true&theme=dark" width="420">
 <h3>Michael Brodskiy</h3>
 <p><em><u>Physics & Electrical Engineering Student, Northeastern University</u></em></p>
 <hr style="height:2px" color="grey">
-In my profile, one will find many notes from my classes, scripts, and configuration files for my preferred software. Given my advocacy for Free Software, anything I produce has been, is, or will be published under a freedom-respecting license or permissive license. <br/>
+In my profile, one will find many notes from my classes, scripts, and config files for my preferred software. Given my advocacy for Free Software, anything I produce has been, is, or will be published under a freedom-respecting license or permissive license. <br/>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdbrodskiy&langs_count=5&theme=tokyonight">
 📫 How to reach me: <br/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css" integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
