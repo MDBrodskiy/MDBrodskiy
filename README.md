@@ -1,6 +1,5 @@
-<p align='left'> Hey, I'm Michael Brodskiy, a Physics & Electrical Engineering student at Northeastern University. In my profile, one will find many notes from my classes, scripts, and configuration files for my preferred software. Given my advocacy for Free Software, anything I produce has been, is, or will be published under a freedom-respecting license or permissive license. </p>
+Hey, I'm Michael Brodskiy, a Physics & Electrical Engineering student at Northeastern University. In my profile, one will find many notes from my classes, scripts, and configuration files for my preferred software. Given my advocacy for Free Software, anything I produce has been, is, or will be published under a freedom-respecting license or permissive license.  <img align='right' src="https://github-readme-stats.vercel.app/api?username=MDBrodskiy&show_icons=true&theme=dark" width="380">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=MDBrodskiy&show_icons=true&theme=dark" width="380">
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MDBrodskiy&langs_count=5&theme=tokyonight)]()
 
 Contact Me: <br>
