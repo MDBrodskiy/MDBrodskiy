@@ -1,5 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=MDBrodskiy&show_icons=true&theme=dark" width="380">
-<h1>Michael Brodskiy</h1>
+<h3>Michael Brodskiy</h3>
 <p><em><u>Physics & Electrical Engineering Student, Northeastern University</u></em></p>
 In my profile, one will find many notes from my classes, scripts, and configuration files for my preferred software. Given my advocacy for Free Software, anything I produce has been, is, or will be published under a freedom-respecting license or permissive license.
 
