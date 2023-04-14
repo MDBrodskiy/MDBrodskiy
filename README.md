@@ -11,6 +11,5 @@ In my profile, one will find many notes from my classes, scripts, and config fil
 •
 <a href="https://www.linkedin.com/in/MBrodskiy/?locale=en_US" style="color:blue"><i>LinkedIn</i></a><br/>
 GPG Key: <a href="http://michael.brodskiy.com/Key.asc" style="color:blue"><i>30B9 7F6F D5E8 E118 2656  097D 21CF 76A2 4318 0274</i></a><br/>
-<a style="color:black;font-variant:small-caps;font-size:12px;font-style:bold;">"There are only two industries which refer to their customers as users, drugs and computers"</a>
 <br/>
 <hr style="height:2px" color="grey">
