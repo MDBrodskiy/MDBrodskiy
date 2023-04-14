@@ -12,7 +12,7 @@ In my profile, one will find many notes from my classes, scripts, and config fil
 <a href="mailto:MBrodskiy@Member.FSF.org" style="color:darkblue"><i class="fa fa-github-square" aria-hidden="true" style="font-size:20px;color:#211F1F"></i><i>E-Mail</i></a>
 •
 <a href="https://www.linkedin.com/in/MBrodskiy/?locale=en_US" style="color:darkblue"><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size:20px;color:#0072B1"></i><i>LinkedIn</i></a><br/>
-GPG Key: <a href"http://michael.brodskiy.com/Key.asc" style="color:#0072B1">30B9 7F6F D5E8 E118 2656  097D 21CF 76A2 4318 0274</a>
+GPG Key: [30B9 7F6F D5E8 E118 2656  097D 21CF 76A2 4318 0274](http://michael.brodskiy.com/Key.asc)
 <br/>
 <a style="color:black;font-variant:small-caps;font-size:12px;font-style:bold;">"There are only two industries which refer to their customers as users, drugs and computers"</a>
 <br/>
