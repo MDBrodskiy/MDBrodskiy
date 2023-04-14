@@ -6,7 +6,6 @@ Hey, I'm Michael Brodskiy, a Physics & Electrical Engineering student at Northea
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css" integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
 <br/><br/>
 <a style="color:black;font-family:cursive;font-size:20px;font-style:bold;font-variant:small-caps">Michael Brodskiy</a><br/>
-<a href="tel:+19253957120" style="color:#C90016"><u><i class="fa fa-phone-square" style="font-size:20px"></i></i></u><i>Mobile</i> (<i>SMS ok</i>)</a><br/>
 <a href="http://Michael.Brodskiy.com" style="color:blue"><i class="fa fa-globe-w" style="font-size:20px;color:#1E88E5"></i><i>www.Michael.Brodskiy.com</i></a><br/>
 <a href="mailto:MBrodskiy@Member.FSF.org" style="color:darkblue"><i class="fa fa-github-square" aria-hidden="true" style="font-size:20px;color:#211F1F"></i><i>E-Mail</i></a>
 •
