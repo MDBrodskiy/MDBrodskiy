@@ -5,10 +5,9 @@
 <hr style="height:2px" color="grey">
 In my profile, one will find many notes from my classes, scripts, and config files for my preferred software. Given my advocacy for Free Software, anything I produce has been, is, or will be published under a freedom-respecting license or permissive license. <br/>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdbrodskiy&langs_count=5&theme=tokyonight">
-<br/>
-<a href="https://www.fsf.org"><img src="http://www.brodskiy.com/michael/images/fsf.png" alt="[Free Software Foundation Member]" width='200'/></a>
-<a href="https://www.gnu.org/gnu40"><img src="https://www.gnu.org/gnu40/GNU40_badge-sm.png" alt="[Celebrate 40 years of GNU!]" width='250'/></a>
-<br/> 📫 How to reach me: <br/>
+<a href="https://www.fsf.org"><img src="http://www.brodskiy.com/michael/images/fsf.png" alt="[Free Software Foundation Member]" width='250'/></a>
+<a href="https://www.gnu.org/gnu40"><img src="https://www.gnu.org/gnu40/GNU40_badge-sm.png" alt="[Celebrate 40 years of GNU!]" width='200'/></a>
+<br/><br/> 📫 How to reach me: <br/>
 <a href="http://Michael.Brodskiy.com" style="color:blue"><i>www.Michael.Brodskiy.com</i></a><br/>
 <a href="mailto:MBrodskiy@Member.FSF.org" style="color:blue"><i>E-Mail</i></a>
 •
