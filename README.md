@@ -15,6 +15,4 @@ In my profile, one will find many notes from my classes, scripts, and config fil
 GPG Key: <a href="http://michael.brodskiy.com/Key.asc" style="color:blue"><i>30B9 7F6F D5E8 E118 2656  097D 21CF 76A2 4318 0274</i></a><br/>
 <hr style="height:2px" color="grey">
 
-<iframe src="//static.fsf.org/nosvn/banners/202306fundraiser/" scrolling="no"
-  style="width: 100%; height: 150px; display: block; margin: 0; border: 0 none; overflow: hidden;">
-</iframe>
+<a href="https://www.fsf.org"><img src="http://static.fsf.org/nosvn/banners/202306fundraiser/" style="width: 100%; height: 150px; display: block; margin: 0; border: 0 none; overflow: hidden;"></a>
